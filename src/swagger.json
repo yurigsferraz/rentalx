@@ -1,0 +1,11 @@
+{
+    "openap": "3.0.0",
+    "ïnfo": {
+        "title": "RentalX Documentation",
+        "description": "This is an API Rent",
+        "version": "1.0.0",
+        "contact": {
+            "email": "yurigsferraz@gmail.com"
+        }
+    }
+}
